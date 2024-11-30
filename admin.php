@@ -73,6 +73,10 @@ $admin = $_SESSION['admin'];
             <span class="sr-only">Next</span>
         </a>
     </div>
+     <!--footer parts-->
+    <div class="footer-part">
+        <h1></h1>
+    </div>
 
     <!-- Bootstrap JS and jQuery -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
