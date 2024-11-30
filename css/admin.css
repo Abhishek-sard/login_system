@@ -52,7 +52,7 @@
 }
 
 .custom-navbar {
-    background-color: #575252;
+    background-color: #195926;
 }
 
 .custom-navbar .navbar-nav .nav-link {
@@ -86,13 +86,32 @@
 }
 
 .carousel-inner img {
-    height: 700px;
-    /* Adjust the height as needed */
+    height: 400px;
+    
     object-fit: cover;
-    /* Ensures the image fills the space proportionally */
 }
 
+/**image**/
 
+.card-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+   
+    border-radius: 10px;
+   
+}
+
+.big-card {
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    background-color: white;
+}
+
+.card-img {
+    border-radius: 10px;
+}
 
 /* Responsive Design */
 @media screen and (max-width: 768px) {
