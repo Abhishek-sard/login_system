@@ -50,7 +50,7 @@ $result = $conn->query("SELECT * FROM users");
             <h2>Booking Counter</h2>
             <ul>
                 <li><a href="#" id="home-button" class="active">Passangers</a></li>
-                <li><a href="#">Buses available</a></li>
+                <li><a href="Buses available/buses.php">Buses available</a></li>
                 <li><a href="#">Booking</a></li>
                 <li><a href="#">Seat Booked </a></li>
                 <li><a href="#">Offers</a></li>
