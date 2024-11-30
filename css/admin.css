@@ -19,7 +19,7 @@
     margin: 0;
     font-size: 30px;
     font-weight: bold;
-    color:greenyellow;
+    color: greenyellow;
 
 }
 
@@ -84,6 +84,15 @@
     background-color: #575252;
     /* Adjust color for navigation buttons */
 }
+
+.carousel-inner img {
+    height: 700px;
+    /* Adjust the height as needed */
+    object-fit: cover;
+    /* Ensures the image fills the space proportionally */
+}
+
+
 
 /* Responsive Design */
 @media screen and (max-width: 768px) {

@@ -73,10 +73,20 @@ $admin = $_SESSION['admin'];
             <span class="sr-only">Next</span>
         </a>
     </div>
-     <!--footer parts-->
-    <div class="footer-part">
-        <h1></h1>
+    <!--body parts-->
+    <div class="d-flex justify-content-center align-items-center text-center" style="min-height: 45vh; overflow: hidden;">
+    <div class="body-parts">
+        <h1 style="color: orange; font-weight: bold;">About Us</h1>
+        <p style="font-size: 1.5rem;">Sajilo Ticket aims to make your travel experience smooth and convenient <br>
+            by providing a user-friendly ticket booking system. Whether you're booking <br>
+            for business or leisure, we've got you covered.
+        </p>
     </div>
+</div>
+
+
+
+
 
     <!-- Bootstrap JS and jQuery -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
