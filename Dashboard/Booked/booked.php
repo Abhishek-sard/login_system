@@ -44,7 +44,7 @@ if (isset($_GET['delete'])) {
 </head>
 <body>
     <div class="container">
-        <h1>Seats Booked</h1>
+        <h1>Admin Seats Booked</h1>
 
         <!-- Booking Form -->
         <form method="POST">
