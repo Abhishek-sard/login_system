@@ -53,7 +53,7 @@ $result = $conn->query("SELECT * FROM users");
                 <li><a href="Buses available/buses.php">Buses available</a></li>
                 <li><a href="Booking/bookings.php">Booking</a></li>
                 <li><a href="Booked/booked.php">Seat Booked </a></li>
-                <li><a href="#">Offers</a></li>
+                <li><a href="Offers/offers.php">Offers</a></li>
             </ul>
         </div>
   
